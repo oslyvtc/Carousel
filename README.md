@@ -1,2 +1,0 @@
-# Carousel
-Carousel slider
